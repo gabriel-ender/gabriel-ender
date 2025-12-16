@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @gabriel-ender
-- 👀 I’m interested in make the difference.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m looking for a job
+- 🌱 I’m currently learning Python and SQL.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me > gabrielender.md@gmail.com
+- ⚡ Fun fact: I'm a drummer!
 
 <!---
 gabriel-ender/gabriel-ender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
